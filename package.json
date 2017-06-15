@@ -1,0 +1,15 @@
+{
+  "name": "testnjs",
+  "version": "1.0.0",
+  "description": "test node js",
+  "homepage": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "subchill@gmail.com",
+  "license": "SEE LICENSE IN license.txt",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
